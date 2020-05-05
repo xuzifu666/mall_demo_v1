@@ -1,2 +1,3 @@
 this is dev branch
 dev a function
+bug fixed!
